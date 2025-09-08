@@ -1,6 +1,6 @@
 <h1 align="center">Привет всем, меня зовут Татьяна! </h1>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Data+Scientist+%7C+ML" 
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Data+Scientist+%7C+ML+Engineer" 
          alt="Typing Animation">
 
 
