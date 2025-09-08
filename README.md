@@ -1,5 +1,4 @@
-<h1 align="center">Привет всем, меня зовут Татьяна
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">Привет всем, меня зовут Татьяна! </h1>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Data+Scientist+%7C+ML" 
          alt="Typing Animation">
