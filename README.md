@@ -3,7 +3,7 @@
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&lines=Data+Scientist" 
          alt="Typing Animation" 
-         style="margin-top: 20px;">
+         style="margin-top: 40px;">
 </h3>
 
 
