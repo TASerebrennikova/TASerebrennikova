@@ -14,10 +14,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" width="50" height="50"/>
 </div>
 
-### Статистика GitHub
-
-<div align="left">
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=default)
-
-</div>
