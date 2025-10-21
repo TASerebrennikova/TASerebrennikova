@@ -1,16 +1,21 @@
-<h1 align="center">Привет всем, меня зовут Татьяна! </h1>
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Data+Scientist+%7C+ML+Engineer" 
-         alt="Typing Animation">
+## Привет! 
+### 👩‍💻 Обо мне
+Меня зовут Татьяна. Я имею высшее техническое образование и опыт работы проектировщиком электроснабжения крупных нефтеперерабатывающих предприятий.
+Сейчас завершила профессиональную переподготовку по программе Data Science в Яндекс Практикум.
+Обладаю сочетанием технических знаний в энергетике и навыков работы с данными и продолжаю активно развивать свои компетенции. 
 
+### 🛠️ Технологический стек
+- Языки программирования: Python
+- Анализ данных: SQL, Excel, Pandas, NumPy
+- Машинное обучение: Scikit-learn, XGBoost, CatBoost, LightGBM, Keras
+- Визуализация: Matplotlib, Seaborn
+- Инструменты: Jupyter Notebook, Google Colab, Git
 
-### Стек
+### 🎓 Образование
+- **Магистр** | *Томский политехнический университет*
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" title="Python" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" title="Pandas" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" title="Git" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" width="50" height="50"/>
-</div>
+### 💼 Опыт работы
 
+- **Специалист по Data Science** | *Яндекс Практикум ([Проекты](https://github.com/TASerebrennikova/Practicum_projects))*
+- **Инженер-проектировщик 1 категории** | *НИПИГАЗ*
+- **Разметчик данных** | *Газпром нефть*
